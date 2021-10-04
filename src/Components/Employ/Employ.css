@@ -1,0 +1,41 @@
+/* Empoly Part */
+
+.Empoly img{
+    width: 250px;
+    height: 250px;
+    border-radius: 50%;
+}
+
+.Empoly{
+    background-color: #F8FAFF;
+    padding: 20px;
+    margin: 20px;
+    border-radius: 10px;
+    cursor: pointer;
+}
+
+.Empoly h3{
+    font-size: 20px;
+    font-weight: 600;
+    color: #383957;
+}
+
+.Empoly p{
+    font-size: 16px;
+    font-weight: 400;
+    color: #383957;
+}
+
+.touter{
+   color: #195ec8;
+   font-size: 35px;
+   padding-top: 20px;
+}
+
+span.text {
+    color: #383957;
+    font-size: 16px;
+    font-weight: 400;
+    margin-left: 20px;
+    line-height: 50px;
+}

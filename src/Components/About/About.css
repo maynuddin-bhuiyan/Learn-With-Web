@@ -1,0 +1,12 @@
+/* About Part */
+
+
+.about img{
+    width: 100%;
+}
+
+.about h1{
+    text-align: left;
+    color: #ac9e9e;
+    margin-left: 50px;
+}

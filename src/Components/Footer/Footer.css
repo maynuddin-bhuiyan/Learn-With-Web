@@ -1,0 +1,38 @@
+/* Footer Part */
+
+footer{
+    border: 2px solid rgb(197, 194, 189);
+    box-shadow: 10px 5px 5px rgb(136, 124, 124);
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    margin-bottom: 10px;
+}
+.Icons {
+    text-align: left;
+    margin: 5px;
+    color: grey;
+    margin-left: 20px;
+  }
+
+.text h4{
+    text-align: right;
+    margin: 5px;
+    color: grey;
+    margin-right: 20px;
+    font-size: 20px;
+    margin-top: 20px;
+}
+
+footer p{
+    font-size: 15px;
+    font-weight: 600;
+    color: #383957;
+    padding: 10px;
+}
+
+footer .footer-icon{
+    color: khaki;
+    font-size: 20px;
+    margin-left: 50px;
+    margin-top: 20px;
+}

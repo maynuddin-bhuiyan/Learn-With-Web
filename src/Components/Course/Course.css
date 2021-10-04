@@ -1,0 +1,20 @@
+/* Couses  Part */
+
+.Couse-full{
+    background: rgb(70, 69, 69);
+}
+
+.Couses h1{
+    text-align: left;
+    color: #ac9e9e;
+    padding: 30px 0px 0px 80px;
+    margin: 0;
+}
+
+.Couse{
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    grid-gap: 20px;
+    padding: 100px  50px  100px;
+    
+}

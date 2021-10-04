@@ -1,0 +1,11 @@
+/* Notfound Part */
+
+.notfound img{
+    width: 100%;
+}
+
+.notfound h1{
+    text-align: left;
+    color: #ac9e9e;
+    margin-left: 100px;
+}
